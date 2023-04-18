@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "IntegradorArgentinaPrograma/node_modules/bootstrap/dist/css/bootstrap.css"
+              "C:/Users/kiara.perez/Pictures/ARGENTINA PROGRAMA/IntegradorArgentinaPrograma/IntegradorArgentinaPrograma/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "IntegradorArgentinaPrograma/node_modules/bootstrap/dist/js/bootstrap.js"
+              "C:/Users/kiara.perez/Pictures/ARGENTINA PROGRAMA/IntegradorArgentinaPrograma/IntegradorArgentinaPrograma/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {

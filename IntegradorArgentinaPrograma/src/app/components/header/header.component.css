@@ -1,8 +1,11 @@
 div{
   background-color: #e6e6fa;
+  min-height: 100%;
+  overflow: hidden;
 }
 
 app-redes{
   float: right;
   margin-top: 25px;
+  scrollbar-width: none;
 }

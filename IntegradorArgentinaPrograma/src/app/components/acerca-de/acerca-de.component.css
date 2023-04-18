@@ -1,5 +1,8 @@
 .row{
-  padding: 20px;
+  padding: 10px;
+  min-height: 100%;
+  width: 100.65%;
+  scrollbar-width: none;
 }
 img{
   padding: 0px;
@@ -8,6 +11,7 @@ img{
 div{
   background-color: lavender;
   text-align: center;
+  background-position: 0%;
 }
 
 #nombre{
@@ -22,7 +26,6 @@ div{
   border-radius: 100%;
   left: 0%;
   width:300px;
-  length: 300px;
   top: 1000px;
 }
 }
@@ -46,12 +49,11 @@ div{
     }
 
 #acerca{
-  font-size: 200%;
+  font-size: 100%;
   margin-left: 50%;
 }
 
 #acercademi{
-  font-size: 200%;
+  font-size: 100%;
   margin-left: 50%;
-  margin-top: 100%;
 }

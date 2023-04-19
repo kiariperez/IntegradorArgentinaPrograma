@@ -5,15 +5,15 @@
 }
 
 .row{
-  padding: 20px;
+  padding: 0px;
   text-align: center;
 }
 
 div{
   background-color: lavender;
-  margin-bottom: -1.4%;
+  margin-bottom: -1.5%;
 }
 
-.arba{
-  margin:10;
+#estrada{
+  margin: 5px;
 }

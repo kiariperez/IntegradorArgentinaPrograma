@@ -7,9 +7,9 @@ import { HeaderComponent } from './components/header/header.component';
 import { LogoArgentinaComponent } from './components/logo-argentina/logo-argentina.component';
 import { RedesComponent } from './components/redes/redes.component';
 import { BannerComponent } from './components/banner/banner.component';
-import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
+import { AcercadeComponent } from './components/acercade/acercade.component';
 import { ExperienciaComponent } from './components/experiencia/experiencia.component';
-
+import { EstudiosComponent } from './components/estudios/estudios.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -17,8 +17,9 @@ import { ExperienciaComponent } from './components/experiencia/experiencia.compo
     LogoArgentinaComponent,
     RedesComponent,
     BannerComponent,
-    AcercaDeComponent,
-    ExperienciaComponent
+    AcercadeComponent,
+    ExperienciaComponent,
+    EstudiosComponent,
   ],
   imports: [
     BrowserModule,

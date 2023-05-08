@@ -1,0 +1,31 @@
+.container{
+  max-width: 2000px;
+  min-width: none;
+  background-color: lavender;
+}
+
+.row{
+  padding: 10px;
+  text-align: center;
+}
+
+div{
+  background-color: lavender;
+}
+
+.parte1, .parte2{
+
+  text-align: start;
+  padding-bottom: 59px;
+}
+
+.img-proyecto{
+  box-shadow: none;
+  max-width: 150%;
+  position: justify;
+  padding:10%;
+  border-bottom: 100%;
+  box-shadow: 10px 10px 50px #000000;
+}
+
+

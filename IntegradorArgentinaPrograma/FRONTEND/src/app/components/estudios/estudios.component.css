@@ -7,9 +7,17 @@
 .row{
   padding: 0px;
   text-align: center;
+  background-color: lavender;
 }
 
 div{
   background-color: lavender;
   margin-bottom: -1.5%;
+  border-color: lavender;
+
 }
+
+#estrada{
+  margin: 5px;
+}
+

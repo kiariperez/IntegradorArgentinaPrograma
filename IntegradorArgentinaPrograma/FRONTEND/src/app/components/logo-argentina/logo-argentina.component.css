@@ -1,0 +1,25 @@
+#logoAP{
+  width: 180px;
+}
+img{
+  width: 50px;
+  scrollbar-width: none;
+}
+
+.redes{
+  justify-content: flex-end;
+  margin-top:-90px;
+  margin-bottom: 10px;
+  display:flex;
+  padding-top: -100px;
+  margin-right: 10px;
+}
+
+.btn{
+  border-width: medium;
+  margin-left: 5px;
+}
+
+.redes img{
+  margin-left: 5px;
+}

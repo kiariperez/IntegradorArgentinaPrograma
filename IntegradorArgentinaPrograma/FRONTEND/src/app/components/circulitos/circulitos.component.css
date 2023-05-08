@@ -2,6 +2,7 @@
   max-width: 2000px;
   min-width: none;
   background-color: lavender;
+  padding-top: 100px;
 }
 
 .row{
@@ -11,9 +12,5 @@
 
 div{
   background-color: lavender;
-  margin-bottom: -1.4%;
 }
 
-.arba{
-  margin:10;
-}
